@@ -72,8 +72,8 @@
 		],
 		"editor_state": {
 			"current_level": 1,
-			"camera_position": "Vector2( 6856.32, 7361.22 )",
-			"camera_zoom": 8,
+			"camera_position": "Vector2( 5260.85, 6384.59 )",
+			"camera_zoom": 5.333333,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -188,9 +188,9 @@
 			},
 			"object_library_memory": {
 				"mode": "all",
-				"scroll": 310,
+				"scroll": 0,
 				"selected": [
-					"res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Rug/Colorable/rug_rumpled_rupee_2x4_colorable.webp"
+					"res://packs/DnDgCORE/textures/objects/[DnD] Structure/[DnD] Stru - Elevation/pine_ladder_01.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -218,7 +218,7 @@
 		"format": 3,
 		"width": 52,
 		"height": 48,
-		"next_node_id": "9a9",
+		"next_node_id": "9b4",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -2766,27 +2766,27 @@
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
 						"2": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"3": "res://textures/tilesets/simple/tileset_carpet.png",
-						"4": "res://textures/tilesets/simple/tileset_concrete.png",
-						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"9": "res://textures/tilesets/simple/tileset_cobble.png",
-						"10": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"11": "res://textures/tilesets/simple/tileset_diamond.png",
-						"12": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"14": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"15": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"17": "res://textures/tilesets/simple/tileset_sewers.png",
-						"18": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"19": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"3": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"5": "res://textures/tilesets/simple/tileset_carpet.png",
+						"6": "res://textures/tilesets/simple/tileset_cobble.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"8": "res://textures/tilesets/simple/tileset_cave.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"10": "res://textures/tilesets/simple/tileset_concrete.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"13": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"14": "res://textures/tilesets/simple/tileset_diamond.png",
+						"15": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"16": "res://textures/tilesets/simple/tileset_sewers.png",
+						"17": "res://textures/tilesets/simple/tileset_ornate.png",
+						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"19": "res://textures/tilesets/simple/tileset_herringbone.png",
 						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"21": "res://textures/tilesets/simple/tileset_straw.png",
-						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"23": "res://textures/tilesets/simple/tileset_ornate.png"
+						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
 					}
 				},
 				"patterns": [
@@ -5835,27 +5835,27 @@
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
 						"2": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"3": "res://textures/tilesets/simple/tileset_carpet.png",
-						"4": "res://textures/tilesets/simple/tileset_concrete.png",
-						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"9": "res://textures/tilesets/simple/tileset_cobble.png",
-						"10": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"11": "res://textures/tilesets/simple/tileset_diamond.png",
-						"12": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"14": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"15": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"17": "res://textures/tilesets/simple/tileset_sewers.png",
-						"18": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"19": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"3": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"5": "res://textures/tilesets/simple/tileset_carpet.png",
+						"6": "res://textures/tilesets/simple/tileset_cobble.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"8": "res://textures/tilesets/simple/tileset_cave.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"10": "res://textures/tilesets/simple/tileset_concrete.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"13": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"14": "res://textures/tilesets/simple/tileset_diamond.png",
+						"15": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"16": "res://textures/tilesets/simple/tileset_sewers.png",
+						"17": "res://textures/tilesets/simple/tileset_ornate.png",
+						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"19": "res://textures/tilesets/simple/tileset_herringbone.png",
 						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"21": "res://textures/tilesets/simple/tileset_straw.png",
-						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"23": "res://textures/tilesets/simple/tileset_ornate.png"
+						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
 					}
 				},
 				"patterns": [
@@ -7564,6 +7564,61 @@
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 8080.32, 10314.6 )",
+						"rotation": 1.047198,
+						"scale": "Vector2( 0.45, 0.45 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Water/waterfall_splash_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b1"
+					},
+					{
+						"position": "Vector2( 8088.32, 10301.2 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.45, 0.45 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Water/waterfall_splash_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b0"
+					},
+					{
+						"position": "Vector2( 8077.65, 10311.9 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.45, 0.45 )",
+						"mirror": false,
+						"texture": "res://textures/objects/clutter/water/water_circle_05.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9af"
+					},
+					{
+						"position": "Vector2( 8445.65, 10258.6 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Lighting/metal_lantern_02.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ac"
+					},
+					{
+						"position": "Vector2( 8133.65, 10581.2 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Lighting/metal_lantern_02.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ab"
+					},
 					{
 						"position": "Vector2( 8440.77, 3462.76 )",
 						"rotation": -3.141593,
@@ -17580,17 +17635,6 @@
 						"node_id": "4e0"
 					},
 					{
-						"position": "Vector2( 11883, 7554.67 )",
-						"rotation": 1.047198,
-						"scale": "Vector2( 1.04, 1.04 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Magic/magic_blue_portal_10ft.webp",
-						"layer": 100,
-						"shadow": true,
-						"block_light": false,
-						"node_id": "4ed"
-					},
-					{
 						"position": "Vector2( 10927, 6542.67 )",
 						"rotation": 0,
 						"scale": "Vector2( 1.04, 1.04 )",
@@ -22080,6 +22124,50 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "995"
+					},
+					{
+						"position": "Vector2( 8192, 10368 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Maritime/ship_cherry_mast_pillar_slanted_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9a9"
+					},
+					{
+						"position": "Vector2( 8306.98, 10429.2 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Maritime/ship_cherry_mast_cap_01.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9aa"
+					},
+					{
+						"position": "Vector2( 8649.65, 5309.23 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.54, 0.54 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Structure/[DnD] Stru - Elevation/pine_ladder_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b2"
+					},
+					{
+						"position": "Vector2( 9116.85, 2126.83 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.54, 0.54 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Structure/[DnD] Stru - Elevation/pine_ladder_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b3"
 					}
 				],
 				"lights": [
