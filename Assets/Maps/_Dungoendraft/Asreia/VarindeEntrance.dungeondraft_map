@@ -86,8 +86,8 @@
 		],
 		"editor_state": {
 			"current_level": 1,
-			"camera_position": "Vector2( 14899.8, 2221.1 )",
-			"camera_zoom": 4,
+			"camera_position": "Vector2( 2426.68, 16753.1 )",
+			"camera_zoom": 5.333333,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -203,15 +203,26 @@
 				"mode": "tags",
 				"scroll": 5488,
 				"selected": [
-					"res://packs/DnDgCORE/textures/objects/[DnD] Rock/sandstone_rock_10.webp"
+
 				],
 				"search_strictness": 0.5
 			},
 			"scatter_library_memory": {
-				"mode": "tags",
+				"mode": "all",
 				"scroll": 0,
 				"selected": [
-
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_01.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_02.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_03.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_04.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_05.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_06.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_07.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_08.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_09.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_10.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_11.webp",
+					"res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_12.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -229,7 +240,7 @@
 		"format": 3,
 		"width": 60,
 		"height": 70,
-		"next_node_id": "68e",
+		"next_node_id": "758",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -4480,28 +4491,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"2": "res://textures/tilesets/simple/tileset_cave.png",
 						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"4": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"5": "res://textures/tilesets/simple/tileset_cave.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"7": "res://textures/tilesets/simple/tileset_concrete.png",
+						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"5": "res://textures/tilesets/simple/tileset_concrete.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_large.png",
 						"8": "res://textures/tilesets/simple/tileset_carpet.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
 						"10": "res://textures/tilesets/simple/tileset_cobble.png",
-						"11": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"12": "res://textures/tilesets/simple/tileset_diamond.png",
-						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"14": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"15": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"16": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"17": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"18": "res://textures/tilesets/simple/tileset_ornate.png",
-						"19": "res://textures/tilesets/simple/tileset_sewers.png",
+						"11": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"12": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"13": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"14": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"15": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"16": "res://textures/tilesets/simple/tileset_diamond.png",
+						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"18": "res://textures/tilesets/simple/tileset_sewers.png",
+						"19": "res://textures/tilesets/simple/tileset_ornate.png",
 						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
 						"21": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png"
 					}
 				},
 				"patterns": [
@@ -9428,28 +9439,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"2": "res://textures/tilesets/simple/tileset_cave.png",
 						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"4": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"5": "res://textures/tilesets/simple/tileset_cave.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"7": "res://textures/tilesets/simple/tileset_concrete.png",
+						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"5": "res://textures/tilesets/simple/tileset_concrete.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_large.png",
 						"8": "res://textures/tilesets/simple/tileset_carpet.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
 						"10": "res://textures/tilesets/simple/tileset_cobble.png",
-						"11": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"12": "res://textures/tilesets/simple/tileset_diamond.png",
-						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"14": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"15": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"16": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"17": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"18": "res://textures/tilesets/simple/tileset_ornate.png",
-						"19": "res://textures/tilesets/simple/tileset_sewers.png",
+						"11": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"12": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"13": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"14": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"15": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"16": "res://textures/tilesets/simple/tileset_diamond.png",
+						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"18": "res://textures/tilesets/simple/tileset_sewers.png",
+						"19": "res://textures/tilesets/simple/tileset_ornate.png",
 						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
 						"21": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png"
 					}
 				},
 				"patterns": [
@@ -9512,9 +9523,35 @@
 						"texture": "res://packs/DnDgCORE/textures/patterns/normal/limestone_tiles_broken_dungeon.webp",
 						"rotation": 0,
 						"node_id": "3a"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 1024, 16640, 3328, 16640, 3328, 17408, 1024, 17408 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/DnDgCORE/textures/patterns/normal/limestone_castle_wall_brick_loose.webp",
+						"rotation": 0,
+						"node_id": "695"
 					}
 				],
 				"walls": [
+					{
+						"points": "PoolVector2Array( 1024, 16640, 1024, 17408, 3328, 17408, 3328, 16640 )",
+						"texture": "res://packs/DnDgCORE/textures/walls/wall_limestone_weathered_brick.webp",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "68e",
+						"portals": [
+
+						]
+					},
 					{
 						"points": "PoolVector2Array( 3072, 12032, 3072, 13056, 2304, 14336 )",
 						"texture": "res://packs/DnDgCORE/textures/walls/wall_limestone_weathered_brick.webp",
@@ -24081,6 +24118,281 @@
 						"shadow": true,
 						"block_light": false,
 						"node_id": "68d"
+					},
+					{
+						"position": "Vector2( 2304, 16896 )",
+						"rotation": 0.351105,
+						"scale": "Vector2( 0.935214, 0.935214 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "72c"
+					},
+					{
+						"position": "Vector2( 1920, 16896 )",
+						"rotation": 0.157244,
+						"scale": "Vector2( 0.984144, 0.984144 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_07.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "72d"
+					},
+					{
+						"position": "Vector2( 1536, 17024 )",
+						"rotation": 0.148426,
+						"scale": "Vector2( 1.32255, 1.32255 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_09.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "72e"
+					},
+					{
+						"position": "Vector2( 1920, 17408 )",
+						"rotation": -2.727706,
+						"scale": "Vector2( 0.792323, 0.792323 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_10.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "72f"
+					},
+					{
+						"position": "Vector2( 2304, 17408 )",
+						"rotation": -3.03983,
+						"scale": "Vector2( 0.926339, 0.926339 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_12.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "730"
+					},
+					{
+						"position": "Vector2( 2688, 17280 )",
+						"rotation": 2.458165,
+						"scale": "Vector2( 1.19164, 1.19164 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "731"
+					},
+					{
+						"position": "Vector2( 3072, 17152 )",
+						"rotation": -2.155651,
+						"scale": "Vector2( 1.34486, 1.34486 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_09.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "732"
+					},
+					{
+						"position": "Vector2( 2688, 16896 )",
+						"rotation": -1.346847,
+						"scale": "Vector2( 0.726445, 0.726445 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "733"
+					},
+					{
+						"position": "Vector2( 1152, 16896 )",
+						"rotation": 2.676149,
+						"scale": "Vector2( 1.3878, 1.3878 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_12.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "734"
+					},
+					{
+						"position": "Vector2( 1152, 17280 )",
+						"rotation": -2.797279,
+						"scale": "Vector2( 1.2575, 1.2575 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "735"
+					},
+					{
+						"position": "Vector2( 3456, 17152 )",
+						"rotation": 2.822031,
+						"scale": "Vector2( 0.780472, 0.780472 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_06.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "736"
+					},
+					{
+						"position": "Vector2( 1536, 17152 )",
+						"rotation": 1.522197,
+						"scale": "Vector2( 0.802775, 0.802775 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_11.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "742"
+					},
+					{
+						"position": "Vector2( 1792, 17152 )",
+						"rotation": 1.130653,
+						"scale": "Vector2( 1.3106, 1.3106 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_12.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "743"
+					},
+					{
+						"position": "Vector2( 2048, 17152 )",
+						"rotation": 1.399899,
+						"scale": "Vector2( 1.03816, 1.03816 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_10.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "744"
+					},
+					{
+						"position": "Vector2( 2304, 17152 )",
+						"rotation": 1.703658,
+						"scale": "Vector2( 0.951897, 0.951897 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_07.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "745"
+					},
+					{
+						"position": "Vector2( 1408, 16768 )",
+						"rotation": -0.052492,
+						"scale": "Vector2( 1.096, 1.096 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_08.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "746"
+					},
+					{
+						"position": "Vector2( 1664, 16768 )",
+						"rotation": 0.72839,
+						"scale": "Vector2( 1.00483, 1.00483 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "747"
+					},
+					{
+						"position": "Vector2( 3200, 16768 )",
+						"rotation": -1.534441,
+						"scale": "Vector2( 1.30328, 1.30328 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_03.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "749"
+					},
+					{
+						"position": "Vector2( 1381.35, 17225.1 )",
+						"rotation": -0.296818,
+						"scale": "Vector2( 1.14483, 1.14483 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74a"
+					},
+					{
+						"position": "Vector2( 1210.68, 17017.1 )",
+						"rotation": -0.361653,
+						"scale": "Vector2( 1.28248, 1.28248 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_05.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74b"
+					},
+					{
+						"position": "Vector2( 1520.01, 17374.5 )",
+						"rotation": -0.891433,
+						"scale": "Vector2( 1.38565, 1.38565 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_07.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74c"
+					},
+					{
+						"position": "Vector2( 1781.35, 17321.1 )",
+						"rotation": 1.952466,
+						"scale": "Vector2( 1.40352, 1.40352 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74d"
+					},
+					{
+						"position": "Vector2( 2037.35, 17321.1 )",
+						"rotation": 2.420107,
+						"scale": "Vector2( 1.20886, 1.20886 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_06.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74e"
+					},
+					{
+						"position": "Vector2( 2282.68, 17283.8 )",
+						"rotation": 2.287227,
+						"scale": "Vector2( 1.08776, 1.08776 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "74f"
+					},
+					{
+						"position": "Vector2( 2538.68, 17294.5 )",
+						"rotation": 2.770694,
+						"scale": "Vector2( 1.23049, 1.23049 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Debris/limestone_building_rubble_12.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "750"
 					}
 				],
 				"lights": [
