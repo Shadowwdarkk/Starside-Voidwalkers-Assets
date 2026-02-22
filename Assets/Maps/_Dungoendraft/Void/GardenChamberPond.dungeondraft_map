@@ -86,8 +86,8 @@
 		],
 		"editor_state": {
 			"current_level": 1,
-			"camera_position": "Vector2( 6185.98, 6543.82 )",
-			"camera_zoom": 16,
+			"camera_position": "Vector2( 5213.05, 4725.55 )",
+			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -263,7 +263,7 @@
 			"0": {
 				"label": "Overhead",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -2791,28 +2791,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"3": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"2": "res://textures/tilesets/simple/tileset_concrete.png",
+						"3": "res://textures/tilesets/simple/tileset_cave.png",
 						"4": "res://textures/tilesets/simple/tileset_carpet.png",
 						"5": "res://textures/tilesets/simple/tileset_cobble.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"8": "res://textures/tilesets/simple/tileset_concrete.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"10": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"11": "res://textures/tilesets/simple/tileset_diamond.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"13": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"9": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"10": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
 						"14": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"15": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"16": "res://textures/tilesets/simple/tileset_sewers.png",
-						"17": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"19": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"22": "res://textures/tilesets/simple/tileset_ornate.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"15": "res://textures/tilesets/simple/tileset_sewers.png",
+						"16": "res://textures/tilesets/simple/tileset_ornate.png",
+						"17": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"18": "res://textures/tilesets/simple/tileset_diamond.png",
+						"19": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"20": "res://textures/tilesets/simple/tileset_straw.png",
+						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
 					}
 				},
 				"patterns": [
@@ -6264,28 +6264,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"3": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"2": "res://textures/tilesets/simple/tileset_concrete.png",
+						"3": "res://textures/tilesets/simple/tileset_cave.png",
 						"4": "res://textures/tilesets/simple/tileset_carpet.png",
 						"5": "res://textures/tilesets/simple/tileset_cobble.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"8": "res://textures/tilesets/simple/tileset_concrete.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"10": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"11": "res://textures/tilesets/simple/tileset_diamond.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"13": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"9": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"10": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
 						"14": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"15": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"16": "res://textures/tilesets/simple/tileset_sewers.png",
-						"17": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"19": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"22": "res://textures/tilesets/simple/tileset_ornate.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"15": "res://textures/tilesets/simple/tileset_sewers.png",
+						"16": "res://textures/tilesets/simple/tileset_ornate.png",
+						"17": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"18": "res://textures/tilesets/simple/tileset_diamond.png",
+						"19": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"20": "res://textures/tilesets/simple/tileset_straw.png",
+						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
 					}
 				},
 				"patterns": [
@@ -7578,7 +7578,7 @@
 						"layer": 100,
 						"shadow": false,
 						"block_light": false,
-						"custom_color": "ff383edf",
+						"custom_color": "ff00fff3",
 						"node_id": "2a1"
 					},
 					{
@@ -15155,27 +15155,6 @@
 					"make_normalised": true,
 					"make_white": false
 				},
-				"node-id-680": {
-					"colour": "ff00ffed",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": false,
-					"make_white": false
-				},
-				"node-id-678": {
-					"colour": "ff00ffed",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": false,
-					"make_white": false
-				},
-				"node-id-679": {
-					"colour": "ff00ffed",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": false,
-					"make_white": false
-				},
 				"node-id-690": {
 					"colour": "ff00fff3",
 					"type": "objects",
@@ -15271,10 +15250,6 @@
 				"res://packs/DnDgCORE/textures/objects/[DnD] Foliage/[DnD] Foli - Flower/flower_lotus_white_01.webp": {
 					"min_gray": 0,
 					"max_gray": 1
-				},
-				"res://packs/DnDgCORE/textures/objects/[DnD] Foliage/[DnD] Foli - Bush/bush_snowy_deciduous_05.webp": {
-					"min_gray": 0,
-					"max_gray": 0.99062
 				}
 			},
 			"palettes": {
