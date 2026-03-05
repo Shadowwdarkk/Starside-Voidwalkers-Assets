@@ -73,7 +73,7 @@
 				"name": "Voidwalkers Assets",
 				"id": "nchvttUB",
 				"version": "1",
-				"author": "",
+				"author": "Shadowdark",
 				"keywords": "",
 				"allow_3rd_party_mapping_software_to_read": false,
 				"custom_color_overrides": {
@@ -86,7 +86,7 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 8202.02, 5177.54 )",
+			"camera_position": "Vector2( 8435.09, 6080.47 )",
 			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
@@ -229,8 +229,8 @@
 		"format": 3,
 		"width": 50,
 		"height": 50,
-		"next_node_id": "61c",
-		"next_prefab_id": "5",
+		"next_node_id": "82f",
+		"next_prefab_id": "19",
 		"msi": {
 			"offset_map_size": 512,
 			"max_offset_distance": 0.2,
@@ -2780,27 +2780,27 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_carpet.png",
-						"3": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"4": "res://textures/tilesets/simple/tileset_cobble.png",
-						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete.png",
-						"7": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"9": "res://textures/tilesets/simple/tileset_cave.png",
-						"10": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"2": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"3": "res://textures/tilesets/simple/tileset_cobble.png",
+						"4": "res://textures/tilesets/simple/tileset_concrete.png",
+						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"6": "res://textures/tilesets/simple/tileset_carpet.png",
+						"7": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"8": "res://textures/tilesets/simple/tileset_cave.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"10": "res://textures/tilesets/simple/tileset_concrete_slab.png",
 						"11": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"12": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"14": "res://textures/tilesets/simple/tileset_diamond.png",
-						"15": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"16": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"12": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"13": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"14": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"15": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"16": "res://textures/tilesets/simple/tileset_diamond.png",
 						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
 						"18": "res://textures/tilesets/simple/tileset_ornate.png",
 						"19": "res://textures/tilesets/simple/tileset_sewers.png",
-						"20": "res://textures/tilesets/simple/tileset_straw.png",
-						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"22": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"22": "res://textures/tilesets/simple/tileset_straw.png",
 						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
 					}
 				},
@@ -3376,7 +3376,7 @@
 						"node_id": "5fb"
 					},
 					{
-						"position": "Vector2( 8576, 5760 )",
+						"position": "Vector2( 8700.8, 5705.6 )",
 						"rotation": -0.785398,
 						"scale": "Vector2( 4, 4 )",
 						"mirror": false,
@@ -15465,7 +15465,7 @@
 						"node_id": "5eb"
 					},
 					{
-						"position": "Vector2( 10496, 5504 )",
+						"position": "Vector2( 9216, 6016 )",
 						"rotation": 0.261799,
 						"scale": "Vector2( 4, 4 )",
 						"mirror": false,
@@ -15510,6 +15510,30 @@
 						"block_light": false,
 						"node_id": "618",
 						"prefab_id": "3"
+					},
+					{
+						"position": "Vector2( 11509.1, 6406.26 )",
+						"rotation": 1.570802,
+						"scale": "Vector2( 3.67, 3.67 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/marble_bench_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "82b",
+						"prefab_id": "23"
+					},
+					{
+						"position": "Vector2( 11530.9, 6393.74 )",
+						"rotation": 1.570802,
+						"scale": "Vector2( 3.2, 3.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Grave/marble_tombstone_05.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "82c",
+						"prefab_id": "23"
 					}
 				],
 				"lights": [
@@ -15532,6 +15556,80 @@
 	"mod": {
 		".node_table": {
 
+		},
+		"ColourObjects": {
+			"data": {
+
+			},
+			"brightness_data": {
+
+			},
+			"palettes": {
+				"ObjectTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				],
+				"PathTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				]
+			}
 		}
 	}
 }
