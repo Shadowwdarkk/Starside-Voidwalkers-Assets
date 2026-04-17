@@ -4280,28 +4280,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"3": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"4": "res://textures/tilesets/simple/tileset_carpet.png",
-						"5": "res://textures/tilesets/simple/tileset_cobble.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"8": "res://textures/tilesets/simple/tileset_concrete.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"10": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"11": "res://textures/tilesets/simple/tileset_diamond.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"13": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"2": "res://textures/tilesets/simple/tileset_cave.png",
+						"3": "res://textures/tilesets/simple/tileset_concrete.png",
+						"4": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"5": "res://textures/tilesets/simple/tileset_carpet.png",
+						"6": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"9": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"10": "res://textures/tilesets/simple/tileset_cobble.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
 						"14": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"15": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"16": "res://textures/tilesets/simple/tileset_sewers.png",
-						"17": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"19": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"22": "res://textures/tilesets/simple/tileset_ornate.png",
-						"23": "res://textures/tilesets/simple/tileset_straw.png"
+						"15": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"16": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"17": "res://textures/tilesets/simple/tileset_diamond.png",
+						"18": "res://textures/tilesets/simple/tileset_sewers.png",
+						"19": "res://textures/tilesets/simple/tileset_ornate.png",
+						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"21": "res://textures/tilesets/simple/tileset_straw.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png"
 					}
 				},
 				"patterns": [
@@ -9496,7 +9496,8 @@
 				},
 				"texts": [
 
-				]
+				],
+				"texts_vis": true
 			}
 		}
 	},
@@ -9506,2456 +9507,7 @@
 		},
 		"ColourObjects": {
 			"data": {
-				"node-id-24": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-25": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-26": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-27": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-28": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-29": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-30": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-31": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-32": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-35": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-36": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-37": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-38": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-39": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-40": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-41": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-42": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-43": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-44": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-45": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-46": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-47": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-48": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-49": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-50": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-51": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-52": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-53": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-54": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-55": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-56": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-94": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-95": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-96": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-97": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-98": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-99": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-100": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-101": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-102": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-103": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-104": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-105": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-106": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-109": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-154": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-155": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-156": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-157": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-158": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-159": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-160": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-161": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-162": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-163": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-164": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-165": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-166": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-167": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-168": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-169": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-170": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-171": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-172": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-173": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-174": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-175": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-176": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-177": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-178": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-179": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-180": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-181": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-182": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-183": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-184": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-190": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-191": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-192": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-193": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-194": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-195": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-196": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-197": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-198": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-199": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-200": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-201": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-202": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-203": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-204": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-205": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-206": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-207": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-208": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-209": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-210": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-211": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-212": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-213": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-214": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-215": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-216": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-217": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-218": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-219": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-220": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-221": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-222": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-223": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-224": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-225": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-226": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-227": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-228": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-229": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-230": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-231": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-232": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-233": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-234": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-235": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-236": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-237": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-238": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-239": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-240": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-241": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-242": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-243": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-244": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-245": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-246": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-247": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-248": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-249": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-250": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-251": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-252": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-253": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-254": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-255": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-256": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-257": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-258": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-259": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-260": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-261": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-262": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-263": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-264": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-265": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-266": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-267": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-269": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-270": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-271": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-272": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-273": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-274": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-275": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-276": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-277": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-284": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-285": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-286": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-287": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-288": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-289": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-290": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-291": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-292": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-293": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-294": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-295": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-296": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-297": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-298": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-299": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-300": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-301": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-302": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-303": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-309": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-310": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-311": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-312": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-313": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-314": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-315": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-316": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-317": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-318": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-387": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-388": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-389": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-390": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-391": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-392": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-393": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-394": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-395": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-396": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-397": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-398": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-399": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-400": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-401": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-402": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-403": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-404": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-405": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-406": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-407": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-408": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-409": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-410": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-411": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-412": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-413": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-414": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-415": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-418": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-420": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-421": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-425": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-429": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-430": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-431": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-440": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-443": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-444": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-445": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-446": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-448": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-449": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-450": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-452": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-456": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-457": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-458": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-459": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-460": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-470": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-471": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-472": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-473": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-474": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-475": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-476": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-477": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-478": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-479": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-480": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-481": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-482": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-483": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-484": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-485": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-486": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-487": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-488": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-489": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-490": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-491": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-492": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-493": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-494": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-495": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-496": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-497": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-498": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-499": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-504": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-507": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-508": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-509": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-510": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-511": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-512": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-513": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-514": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-515": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-516": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-517": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-518": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-519": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-520": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-638": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-639": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-640": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-641": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-642": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-643": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-644": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-645": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-646": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-647": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-648": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-649": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-650": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-651": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-652": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-653": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-654": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-655": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-656": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-657": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-658": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-659": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-660": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-661": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-662": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-663": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-664": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-665": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-666": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-667": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-668": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-669": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-670": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-671": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-672": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-673": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-674": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-675": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-676": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-677": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-678": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-679": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-680": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-681": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-682": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-683": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-684": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-685": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-686": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-687": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-688": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-689": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-690": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-691": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-692": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-693": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-694": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-695": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-696": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-697": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-698": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				},
-				"node-id-699": {
-					"colour": "ffffffff",
-					"type": "objects",
-					"make_colourised": false,
-					"make_normalised": true,
-					"make_white": false
-				}
+
 			},
 			"brightness_data": {
 				"res://packs/DnDgCORE/textures/objects/[DnD] Foliage/[DnD] Foli - Bush/broadleaf_bush_arrowhead_01.webp": {
@@ -12279,6 +9831,2927 @@
 					"bfffffff",
 					"7fffffff",
 					"40ffffff"
+				],
+				"PortalTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				],
+				"TerrainBrush": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				]
+			}
+		},
+		"UchideshiNodeData": {
+			"data": {
+				"node-id-24": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-25": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-26": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-27": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-28": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-29": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-30": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-31": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-32": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-35": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-36": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-37": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-38": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-39": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-40": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-41": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-42": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-43": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-44": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-45": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-46": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-47": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-48": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-49": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-50": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-51": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-52": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-53": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-54": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-55": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-56": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-94": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-95": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-96": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-97": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-98": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-99": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-100": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-101": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-102": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-103": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-104": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-105": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-106": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-109": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-154": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-155": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-156": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-157": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-158": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-159": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-160": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-161": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-162": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-163": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-164": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-165": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-166": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-167": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-168": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-169": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-170": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-171": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-172": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-173": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-174": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-175": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-176": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-177": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-178": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-179": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-180": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-181": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-182": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-183": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-184": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-190": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-191": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-192": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-193": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-194": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-195": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-196": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-197": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-198": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-199": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-200": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-201": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-202": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-203": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-204": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-205": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-206": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-207": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-208": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-209": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-210": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-211": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-212": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-213": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-214": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-215": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-216": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-217": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-218": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-219": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-220": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-221": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-222": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-223": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-224": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-225": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-226": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-227": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-228": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-229": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-230": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-231": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-232": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-233": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-234": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-235": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-236": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-237": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-238": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-239": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-240": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-241": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-242": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-243": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-244": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-245": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-246": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-247": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-248": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-249": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-250": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-251": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-252": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-253": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-254": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-255": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-256": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-257": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-258": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-259": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-260": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-261": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-262": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-263": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-264": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-265": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-266": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-267": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-269": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-270": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-271": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-272": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-273": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-274": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-275": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-276": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-277": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-284": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-285": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-286": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-287": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-288": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-289": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-290": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-291": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-292": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-293": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-294": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-295": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-296": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-297": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-298": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-299": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-300": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-301": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-302": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-303": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-309": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-310": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-311": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-312": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-313": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-314": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-315": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-316": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-317": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-318": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-387": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-388": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-389": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-390": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-391": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-392": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-393": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-394": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-395": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-396": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-397": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-398": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-399": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-400": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-401": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-402": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-403": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-404": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-405": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-406": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-407": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-408": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-409": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-410": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-411": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-412": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-413": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-414": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-415": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-418": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-420": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-421": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-425": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-429": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-430": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-431": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-440": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-443": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-444": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-445": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-446": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-448": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-449": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-450": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-452": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-456": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-457": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-458": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-459": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-460": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-470": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-471": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-472": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-473": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-474": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-475": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-476": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-477": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-478": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-479": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-480": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-481": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-482": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-483": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-484": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-485": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-486": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-487": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-488": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-489": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-490": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-491": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-492": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-493": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-494": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-495": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-496": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-497": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-498": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-499": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-504": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-507": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-508": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-509": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-510": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-511": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-512": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-513": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-514": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-515": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-516": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-517": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-518": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-519": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-520": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-638": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-639": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-640": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-641": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-642": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-643": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-644": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-645": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-646": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-647": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-648": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-649": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-650": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-651": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-652": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-653": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-654": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-655": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-656": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-657": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-658": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-659": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-660": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-661": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-662": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-663": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-664": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-665": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-666": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-667": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-668": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-669": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-670": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-671": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-672": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-673": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-674": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-675": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-676": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-677": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-678": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-679": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-680": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-681": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-682": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-683": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-684": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-685": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-686": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-687": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-688": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-689": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-690": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-691": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-692": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-693": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-694": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-695": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-696": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-697": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-698": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				},
+				"node-id-699": {
+					"shader_type": "normalised",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"type": "objects"
+				}
+			},
+			"terrain_data": {
+				"level-0": [
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					}
 				]
 			}
 		}
