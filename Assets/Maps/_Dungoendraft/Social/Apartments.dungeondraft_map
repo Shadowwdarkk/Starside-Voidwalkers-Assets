@@ -73,7 +73,7 @@
 				"name": "Voidwalkers Assets",
 				"id": "nchvttUB",
 				"version": "1",
-				"author": "",
+				"author": "Shadowdark",
 				"keywords": "",
 				"allow_3rd_party_mapping_software_to_read": false,
 				"custom_color_overrides": {
@@ -86,8 +86,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 11075.7, 5962.02 )",
-			"camera_zoom": 8,
+			"camera_position": "Vector2( 11101.7, 1667.62 )",
+			"camera_zoom": 4,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -203,15 +203,15 @@
 				"mode": "all",
 				"scroll": 0,
 				"selected": [
-					"res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Sleeping/Colorable/pillow_02_colorable.webp"
+
 				],
 				"search_strictness": 0.71
 			},
 			"scatter_library_memory": null,
 			"path_library_memory": {
-				"scroll": 146.125,
+				"scroll": 1498,
 				"selected": [
-					"res://packs/DnDgCORE/textures/paths/gold_trim_thin.webp"
+					"res://packs/DnDgCORE/textures/paths/metal_fence_01.webp"
 				],
 				"search_strictness": 0.5
 			},
@@ -222,7 +222,7 @@
 		"format": 3,
 		"width": 63,
 		"height": 55,
-		"next_node_id": "33a",
+		"next_node_id": "342",
 		"next_prefab_id": "0",
 		"msi": {
 			"offset_map_size": 512,
@@ -3738,28 +3738,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_carpet.png",
-						"3": "res://textures/tilesets/simple/tileset_cave.png",
-						"4": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete.png",
-						"7": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"8": "res://textures/tilesets/simple/tileset_diamond.png",
+						"2": "res://textures/tilesets/simple/tileset_cave.png",
+						"3": "res://textures/tilesets/simple/tileset_carpet.png",
+						"4": "res://textures/tilesets/simple/tileset_concrete.png",
+						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"7": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
 						"9": "res://textures/tilesets/simple/tileset_concrete_slab.png",
 						"10": "res://textures/tilesets/simple/tileset_cobble.png",
-						"11": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"11": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_diamond.png",
 						"13": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"14": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"15": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"14": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"15": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"16": "res://textures/tilesets/simple/tileset_sewers.png",
 						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"18": "res://textures/tilesets/simple/tileset_sewers.png",
-						"19": "res://textures/tilesets/simple/tileset_straw.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"22": "res://textures/tilesets/simple/tileset_ornate.png",
-						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png"
+						"18": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"19": "res://textures/tilesets/simple/tileset_ornate.png",
+						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"21": "res://textures/tilesets/simple/tileset_straw.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png"
 					}
 				},
 				"patterns": [
@@ -11513,13 +11513,210 @@
 				},
 				"texts": [
 
-				]
+				],
+				"texts_vis": true
 			}
 		}
 	},
 	"mod": {
 		".node_table": {
 
+		},
+		"ColourObjects": {
+			"data": {
+
+			},
+			"brightness_data": {
+
+			},
+			"palettes": {
+				"ObjectTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				],
+				"PathTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				],
+				"PortalTool": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				],
+				"TerrainBrush": [
+					"ff6b3834",
+					"ffac584c",
+					"ff885848",
+					"ffc0866c",
+					"ff8d6d58",
+					"fff3a768",
+					"ff685848",
+					"ff9c8868",
+					"ffae9254",
+					"ffd8c888",
+					"ff888868",
+					"ffaab478",
+					"ff92aa58",
+					"ff87a868",
+					"ff679865",
+					"ff789868",
+					"ff546d56",
+					"ff68887c",
+					"ff667878",
+					"ff809dab",
+					"ff61788d",
+					"ff535869",
+					"ff786878",
+					"ff886878",
+					"ff905868",
+					"ff994858",
+					"ffffffff",
+					"bfffffff",
+					"7fffffff",
+					"40ffffff"
+				]
+			}
+		},
+		"UchideshiNodeData": {
+			"terrain_data": {
+				"level-0": [
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					},
+					{
+						"shader_type": "none",
+						"colour": "ffffffff",
+						"rotation": 0,
+						"flip_x": false,
+						"flip_y": false
+					}
+				]
+			},
+			"data": {
+
+			}
 		}
 	}
 }
