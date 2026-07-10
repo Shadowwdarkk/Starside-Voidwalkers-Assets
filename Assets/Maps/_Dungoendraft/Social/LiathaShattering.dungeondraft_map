@@ -85,8 +85,8 @@
 			}
 		],
 		"editor_state": {
-			"current_level": 0,
-			"camera_position": "Vector2( 9715.98, 7418.58 )",
+			"current_level": 1,
+			"camera_position": "Vector2( 9427.69, 6085.23 )",
 			"camera_zoom": 12.012012,
 			"guide_position": "null",
 			"trace_image": null,
@@ -13281,105 +13281,6 @@
 						"block_light": false,
 						"custom_color": "ff3c084f",
 						"node_id": "191"
-					},
-					{
-						"position": "Vector2( 4256.07, 9685.95 )",
-						"rotation": -2.617994,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_04.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1ae"
-					},
-					{
-						"position": "Vector2( 3616.07, 9685.95 )",
-						"rotation": 2.617994,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_06.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1af"
-					},
-					{
-						"position": "Vector2( 4128.07, 10710 )",
-						"rotation": -0.785398,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_09.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b0"
-					},
-					{
-						"position": "Vector2( 3744.07, 10710 )",
-						"rotation": 0.523599,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_08.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b1"
-					},
-					{
-						"position": "Vector2( 3360.07, 10070 )",
-						"rotation": 1.832596,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_09.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b2"
-					},
-					{
-						"position": "Vector2( 4384.07, 10326 )",
-						"rotation": -1.047198,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_cliff_small_09.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b3"
-					},
-					{
-						"position": "Vector2( 3872.07, 10070 )",
-						"rotation": 2.356194,
-						"scale": "Vector2( 2.65, 2.65 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_rock_03.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b4"
-					},
-					{
-						"position": "Vector2( 3878.62, 10110.6 )",
-						"rotation": -0.523599,
-						"scale": "Vector2( 2.39, 2.39 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_rock_06.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b5"
-					},
-					{
-						"position": "Vector2( 3787.95, 10089.2 )",
-						"rotation": 2.617994,
-						"scale": "Vector2( 1.08, 1.08 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Rock/basalt_rock_small_06.webp",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "1b6"
 					}
 				],
 				"lights": [
@@ -13972,16 +13873,6 @@
 						"texture": "res://packs/DnDgCORE/textures/lights/painted_sphere_halo.webp",
 						"shadows": true,
 						"node_id": "153"
-					},
-					{
-						"position": "Vector2( 3745.69, 10010.7 )",
-						"rotation": 0,
-						"range": 7.2,
-						"intensity": 1.8,
-						"color": "ff4dd569",
-						"texture": "res://packs/DnDgCORE/textures/lights/painted_circle.webp",
-						"shadows": true,
-						"node_id": "1b7"
 					}
 				],
 				"roofs": {
