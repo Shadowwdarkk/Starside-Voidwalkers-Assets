@@ -85,8 +85,8 @@
 			}
 		],
 		"editor_state": {
-			"current_level": 1,
-			"camera_position": "Vector2( 9427.69, 6085.23 )",
+			"current_level": 0,
+			"camera_position": "Vector2( 10420.2, 8277.5 )",
 			"camera_zoom": 12.012012,
 			"guide_position": "null",
 			"trace_image": null,
@@ -191,7 +191,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					"[DnD] Furniture"
+					"[DnD] Workstation"
 				]
 			},
 			"scatter_tags_memory": {
@@ -202,17 +202,24 @@
 			},
 			"object_library_memory": {
 				"mode": "all",
-				"scroll": 0,
+				"scroll": 1862,
 				"selected": [
-					"res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/Colorable/basalt_throne_colorable_01.webp"
+					"res://packs/DnDgCORE/textures/objects/[DnD] Foliage/[DnD] Foli - Tree/tree_bonsai_black_fir_02.webp"
 				],
 				"search_strictness": 0.88
 			},
-			"scatter_library_memory": null,
+			"scatter_library_memory": {
+				"mode": "all",
+				"scroll": 796,
+				"selected": [
+					"res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Rug/rug_rectangular_concentric_2x1_red.webp"
+				],
+				"search_strictness": 0.88
+			},
 			"path_library_memory": {
 				"scroll": 0,
 				"selected": [
-					"res://packs/DnDgCORE/textures/paths/basalt_cliff_big_striped.webp"
+					"res://packs/DnDgCORE/textures/paths/gold_trim_maze.webp"
 				],
 				"search_strictness": 0.83
 			},
@@ -223,7 +230,7 @@
 		"format": 3,
 		"width": 79,
 		"height": 59,
-		"next_node_id": "1fa",
+		"next_node_id": "251",
 		"next_prefab_id": "2",
 		"msi": {
 			"offset_map_size": 512,
@@ -237,7 +244,7 @@
 		},
 		"building_wear": "res://textures/wear/dust.png",
 		"wall_shadow": false,
-		"object_shadow": false,
+		"object_shadow": true,
 		"trace_image_visible": false,
 		"embedded": {
 
@@ -4935,28 +4942,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"2": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
 						"3": "res://textures/tilesets/simple/tileset_diamond.png",
 						"4": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete.png",
-						"7": "res://textures/tilesets/simple/tileset_cave.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"9": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"10": "res://textures/tilesets/simple/tileset_carpet.png",
-						"11": "res://textures/tilesets/simple/tileset_cobble.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"5": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"6": "res://textures/tilesets/simple/tileset_cave.png",
+						"7": "res://textures/tilesets/simple/tileset_carpet.png",
+						"8": "res://textures/tilesets/simple/tileset_concrete.png",
+						"9": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"10": "res://textures/tilesets/simple/tileset_cobble.png",
+						"11": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"12": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"13": "res://textures/tilesets/simple/tileset_worn_cobble.png",
 						"14": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"15": "res://textures/tilesets/simple/tileset_sewers.png",
-						"16": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"17": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"18": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"19": "res://textures/tilesets/simple/tileset_straw.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"23": "res://textures/tilesets/simple/tileset_ornate.png"
+						"15": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"18": "res://textures/tilesets/simple/tileset_sewers.png",
+						"19": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"20": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"21": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"22": "res://textures/tilesets/simple/tileset_ornate.png",
+						"23": "res://textures/tilesets/simple/tileset_straw.png"
 					}
 				},
 				"patterns": [
@@ -5226,16 +5233,6 @@
 						"texture": "res://packs/DnDgCORE/textures/lights/painted_smudge_horizontal.webp",
 						"shadows": true,
 						"node_id": "77"
-					},
-					{
-						"position": "Vector2( 3881.14, 10133.5 )",
-						"rotation": 0,
-						"range": 5,
-						"intensity": 1,
-						"color": "ff4dd569",
-						"texture": "res://packs/DnDgCORE/textures/lights/painted_circle.webp",
-						"shadows": true,
-						"node_id": "1a3"
 					}
 				],
 				"roofs": {
@@ -9943,28 +9940,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"2": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
 						"3": "res://textures/tilesets/simple/tileset_diamond.png",
 						"4": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"6": "res://textures/tilesets/simple/tileset_concrete.png",
-						"7": "res://textures/tilesets/simple/tileset_cave.png",
-						"8": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"9": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"10": "res://textures/tilesets/simple/tileset_carpet.png",
-						"11": "res://textures/tilesets/simple/tileset_cobble.png",
-						"12": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"5": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"6": "res://textures/tilesets/simple/tileset_cave.png",
+						"7": "res://textures/tilesets/simple/tileset_carpet.png",
+						"8": "res://textures/tilesets/simple/tileset_concrete.png",
+						"9": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"10": "res://textures/tilesets/simple/tileset_cobble.png",
+						"11": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"12": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"13": "res://textures/tilesets/simple/tileset_worn_cobble.png",
 						"14": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"15": "res://textures/tilesets/simple/tileset_sewers.png",
-						"16": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"17": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"18": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"19": "res://textures/tilesets/simple/tileset_straw.png",
-						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"23": "res://textures/tilesets/simple/tileset_ornate.png"
+						"15": "res://textures/tilesets/simple/tileset_roman_tiles.png",
+						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"18": "res://textures/tilesets/simple/tileset_sewers.png",
+						"19": "res://textures/tilesets/simple/tileset_wood_damaged.png",
+						"20": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"21": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"22": "res://textures/tilesets/simple/tileset_ornate.png",
+						"23": "res://textures/tilesets/simple/tileset_straw.png"
 					}
 				},
 				"patterns": [
@@ -10159,6 +10156,30 @@
 						"texture": "res://packs/DnDgCORE/textures/patterns/normal/basalt_irregular_tiles.webp",
 						"rotation": 0,
 						"node_id": "ee"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 12544, 8704, 17152, 8704, 17152, 8960, 12544, 8960 )",
+						"layer": 100,
+						"color": "ff3b0d6a",
+						"outline": false,
+						"texture": "res://packs/DnDgCORE/textures/patterns/colorable/carpet_plain_colorable_01.webp",
+						"rotation": 0,
+						"node_id": "24c"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 3072, 8704, 7680, 8704, 7680, 8960, 3072, 8960 )",
+						"layer": 100,
+						"color": "ff3b0d6a",
+						"outline": false,
+						"texture": "res://packs/DnDgCORE/textures/patterns/colorable/carpet_plain_colorable_01.webp",
+						"rotation": 0,
+						"node_id": "24d"
 					}
 				],
 				"walls": [
@@ -10332,6 +10353,19 @@
 						"node_id": "e4",
 						"portals": [
 							{
+								"position": "Vector2( 16512, 8448 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://packs/DnDgCORE/textures/portals/wood_cherry_door_double_04.webp",
+								"radius": 213.5,
+								"point_index": 2,
+								"wall_id": "e4",
+								"wall_distance": 2.175,
+								"closed": true,
+								"node_id": "1fa"
+							},
+							{
 								"position": "Vector2( 13184, 8448 )",
 								"rotation": 3.141593,
 								"scale": "Vector2( 1, 1 )",
@@ -10369,6 +10403,19 @@
 								"wall_distance": 0.175,
 								"closed": true,
 								"node_id": "156"
+							},
+							{
+								"position": "Vector2( 3712, 8448 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://packs/DnDgCORE/textures/portals/wood_cherry_door_double_04.webp",
+								"radius": 213.5,
+								"point_index": 0,
+								"wall_id": "e3",
+								"wall_distance": 0.825,
+								"closed": true,
+								"node_id": "1fb"
 							}
 						]
 					},
@@ -12076,9 +12123,209 @@
 						"block_light": false,
 						"loop": true,
 						"node_id": "199"
+					},
+					{
+						"position": "Vector2( 12544, 8704 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 25.5996, 0, 4582.4, 0, 4608, 0, 4608, 25.5996, 4608, 230.4, 4608, 256, 4582.4, 256, 25.5996, 256, 0, 256, 0, 230.4, 0, 25.5996 )",
+						"smoothness": 0,
+						"texture": "res://packs/DnDgCORE/textures/paths/gold_trim_maze.webp",
+						"width": 27.199999,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "24f"
+					},
+					{
+						"position": "Vector2( 7680, 8704 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, -25.6001, 0, -4582.4, 0, -4608, 0, -4608, 25.5996, -4608, 230.4, -4608, 256, -4582.4, 256, -25.6001, 256, 0, 256, 0, 230.4, 0, 25.5996 )",
+						"smoothness": 0,
+						"texture": "res://packs/DnDgCORE/textures/paths/gold_trim_maze.webp",
+						"width": 27.199999,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "250"
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 4254.25, 6099.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "24b"
+					},
+					{
+						"position": "Vector2( 4418.25, 7715.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "24a"
+					},
+					{
+						"position": "Vector2( 3662.25, 7747.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "249"
+					},
+					{
+						"position": "Vector2( 3474.25, 6087.04 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 4, 4 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] SFX/[DnD] SFX - Environment/dust_04.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "248"
+					},
+					{
+						"position": "Vector2( 3598.25, 6127.04 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/anvil_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "230"
+					},
+					{
+						"position": "Vector2( 3187.58, 6340.37 )",
+						"rotation": 3.141593,
+						"scale": "Vector2( 1.2, -1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_oven_russian_brick.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22f"
+					},
+					{
+						"position": "Vector2( 3187.58, 6017.71 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_oven_russian_brick.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22e"
+					},
+					{
+						"position": "Vector2( 4521.98, 8272.64 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_5_1_2_5.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22c"
+					},
+					{
+						"position": "Vector2( 3917.18, 7325.44 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_1_1_1_1.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22b"
+					},
+					{
+						"position": "Vector2( 4608, 5632 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/SF3YhCaj/textures/objects/[ADA]CRATES/[ADA]24_crate_5_1_1_6.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "22a"
+					},
+					{
+						"position": "Vector2( 16128, 6400 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.8, 0.8 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Rug/Colorable/rug_plain_square_3x3_colorable.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff451a71",
+						"node_id": "218"
+					},
+					{
+						"position": "Vector2( 16114.5, 6561.86 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/pine_chair_basic_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "213"
+					},
+					{
+						"position": "Vector2( 16000, 6400 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/pine_chair_basic_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "212"
+					},
+					{
+						"position": "Vector2( 16128, 6272 )",
+						"rotation": 0,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/pine_chair_basic_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "211"
+					},
+					{
+						"position": "Vector2( 16256, 6400 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/pine_chair_basic_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "210"
+					},
 					{
 						"position": "Vector2( 14464, 8064 )",
 						"rotation": -1.570796,
@@ -12912,18 +13159,6 @@
 						"node_id": "12e"
 					},
 					{
-						"position": "Vector2( 16503, 5409.72 )",
-						"rotation": 0,
-						"scale": "Vector2( 1.05, 1.05 )",
-						"mirror": false,
-						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Structure/[DnD] Stru - Wall/Colorable/pine_cloth_divider_frame_01_colorable.webp",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff400f6c",
-						"node_id": "12f"
-					},
-					{
 						"position": "Vector2( 7290.98, 5401.72 )",
 						"rotation": 0,
 						"scale": "Vector2( 1.05, 1.05 )",
@@ -13281,6 +13516,585 @@
 						"block_light": false,
 						"custom_color": "ff3c084f",
 						"node_id": "191"
+					},
+					{
+						"position": "Vector2( 8412.96, 6665.69 )",
+						"rotation": -1.326221,
+						"scale": "Vector2( 1.66, 1.66 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Sleeping/Colorable/pillow_03_colorable.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffb980e0",
+						"node_id": "1fc"
+					},
+					{
+						"position": "Vector2( 15104, 8192 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_corner_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "1fd"
+					},
+					{
+						"position": "Vector2( 14976, 7424 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x2_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "1fe"
+					},
+					{
+						"position": "Vector2( 15616, 8320 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x1_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "1ff"
+					},
+					{
+						"position": "Vector2( 15616, 7680 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_corner_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "200"
+					},
+					{
+						"position": "Vector2( 15488, 7168 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x1_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "201"
+					},
+					{
+						"position": "Vector2( 17152, 8192 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_corner_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "202"
+					},
+					{
+						"position": "Vector2( 17280, 7424 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x2_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "203"
+					},
+					{
+						"position": "Vector2( 16384, 7040 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x2_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "206"
+					},
+					{
+						"position": "Vector2( 16384, 7168 )",
+						"rotation": 0,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/bookshelf_mixed_1x2_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "207"
+					},
+					{
+						"position": "Vector2( 16385.4, 7102.66 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/stained_plank_wood_03.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "208"
+					},
+					{
+						"position": "Vector2( 15879.8, 7096.66 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/Colorable/stained_stool_cushioned_colorable_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff000000",
+						"node_id": "209"
+					},
+					{
+						"position": "Vector2( 16879.8, 7096.66 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/Colorable/stained_stool_cushioned_colorable_01.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff000000",
+						"node_id": "20a"
+					},
+					{
+						"position": "Vector2( 16512, 8064 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Rug/Colorable/rug_rectangular_concentric_2x1_colorable.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff451a71",
+						"node_id": "20b"
+					},
+					{
+						"position": "Vector2( 16896, 5888 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1.86, 1.86 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Rug/Colorable/rug_round_target_colorable.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff451a71",
+						"node_id": "20c"
+					},
+					{
+						"position": "Vector2( 17024, 5760 )",
+						"rotation": 0,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/Colorable/couch_L_colorable_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff451a71",
+						"node_id": "20d"
+					},
+					{
+						"position": "Vector2( 15360, 5888 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Seating/Colorable/couch_colorable_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"custom_color": "ff451a71",
+						"node_id": "20e"
+					},
+					{
+						"position": "Vector2( 16128, 6400 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Table/pine_table_circle_3ft_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "20f"
+					},
+					{
+						"position": "Vector2( 16073.3, 6349.46 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/book_blue_06.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "214"
+					},
+					{
+						"position": "Vector2( 16122.9, 6391.06 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/globe_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "215"
+					},
+					{
+						"position": "Vector2( 16226.9, 6458.26 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Library/map_vellum_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "216"
+					},
+					{
+						"position": "Vector2( 16896, 5888 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.96, 0.96 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Table/stained_table_parquet_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "219"
+					},
+					{
+						"position": "Vector2( 16896, 5888 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Lighting/lantern_paper_round_02_purple.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21a"
+					},
+					{
+						"position": "Vector2( 15006.8, 6535.01 )",
+						"rotation": -1.569549,
+						"scale": "Vector2( 1.66, 1.66 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Furniture/[DnD] Furn - Storage/stained_cabinet_02.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "21c"
+					},
+					{
+						"position": "Vector2( 14984, 6429.82 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Lighting/lantern_paper_round_02_purple.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21d"
+					},
+					{
+						"position": "Vector2( 5183.85, 6482.51 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_oven_russian_brick.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "21f"
+					},
+					{
+						"position": "Vector2( 5274.52, 6509.17 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_fireplace_brick_small_lit.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "220"
+					},
+					{
+						"position": "Vector2( 5285.18, 6959.84 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/fireplace_clay_small_lit.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "221"
+					},
+					{
+						"position": "Vector2( 5250.51, 7303.84 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1.19, 1.19 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_fireplace_brick_lit.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "222"
+					},
+					{
+						"position": "Vector2( 5248, 7680 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/anvil_02.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "223"
+					},
+					{
+						"position": "Vector2( 5248, 8064 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/anvil_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "224"
+					},
+					{
+						"position": "Vector2( 2944, 5632 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/oven_iron_2.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "225"
+					},
+					{
+						"position": "Vector2( 2949.33, 6801.33 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_fireplace_brick_lit.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "226"
+					},
+					{
+						"position": "Vector2( 3072, 8320 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 2, 2 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Workstation/limestone_oven_roman_lit.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "227"
+					},
+					{
+						"position": "Vector2( 3072, 7680 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Tech Apparatus R.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "228"
+					},
+					{
+						"position": "Vector2( 4096, 6912 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/RZWwcKA7/textures/objects/Tech Apparatus Y.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "229"
+					},
+					{
+						"position": "Vector2( 3206.25, 6071.04 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/pickaxe_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "237"
+					},
+					{
+						"position": "Vector2( 3186.25, 6287.04 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/knife_slicing_long.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "238"
+					},
+					{
+						"position": "Vector2( 3230.25, 6343.04 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/pen_ink_fountain_black.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "239"
+					},
+					{
+						"position": "Vector2( 5198.25, 6731.04 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/tool_hatchet_lumber.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23a"
+					},
+					{
+						"position": "Vector2( 5270.25, 6743.04 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/mandel_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23b"
+					},
+					{
+						"position": "Vector2( 5262.25, 8111.04 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/hammer_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23c"
+					},
+					{
+						"position": "Vector2( 5138.25, 6539.04 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/hammer_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23d"
+					},
+					{
+						"position": "Vector2( 5158.25, 6423.04 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Tool/horseshoe_01.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23e"
+					},
+					{
+						"position": "Vector2( 3102.25, 5963.04 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/ingot_shiny_darksteel_stack.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "23f"
+					},
+					{
+						"position": "Vector2( 2962.25, 8315.04 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/gold_ingot_shiny_stack.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "240"
+					},
+					{
+						"position": "Vector2( 3086.25, 6403.04 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/ingot_shiny_darksteel.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "241"
+					},
+					{
+						"position": "Vector2( 3902.25, 7359.04 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/ingot_shiny_darksteel.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "242"
+					},
+					{
+						"position": "Vector2( 4630.25, 8271.04 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/ingot_shiny_lilac_stack.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "243"
+					},
+					{
+						"position": "Vector2( 2930.25, 6031.04 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/metal_ingot_shiny_stack.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "245"
+					},
+					{
+						"position": "Vector2( 2926.25, 7039.04 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/ingot_shiny_copper_stack.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "246"
+					},
+					{
+						"position": "Vector2( 5250.25, 7739.04 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 1.24, 1.24 )",
+						"mirror": false,
+						"texture": "res://packs/DnDgCORE/textures/objects/[DnD] Treasure/metal_ingot_small.webp",
+						"layer": 100,
+						"shadow": true,
+						"block_light": false,
+						"node_id": "247"
 					}
 				],
 				"lights": [
@@ -13873,6 +14687,86 @@
 						"texture": "res://packs/DnDgCORE/textures/lights/painted_sphere_halo.webp",
 						"shadows": true,
 						"node_id": "153"
+					},
+					{
+						"position": "Vector2( 16895.8, 5879.99 )",
+						"rotation": 0,
+						"range": 8.535156,
+						"intensity": 1,
+						"color": "ffc880ff",
+						"texture": "res://packs/DnDgCORE/textures/lights/painted_circle.webp",
+						"shadows": true,
+						"node_id": "21b"
+					},
+					{
+						"position": "Vector2( 14971.6, 6427.04 )",
+						"rotation": 0,
+						"range": 8.535156,
+						"intensity": 1,
+						"color": "ffc880ff",
+						"texture": "res://packs/DnDgCORE/textures/lights/painted_circle.webp",
+						"shadows": true,
+						"node_id": "21e"
+					},
+					{
+						"position": "Vector2( 5078.25, 6495.04 )",
+						"rotation": 1.658063,
+						"range": 0.9,
+						"intensity": 2.4,
+						"color": "ffffad58",
+						"texture": "res://packs/DnDgCORE/textures/lights/door_radiant_round_01.webp",
+						"shadows": true,
+						"node_id": "231"
+					},
+					{
+						"position": "Vector2( 5090.25, 6959.04 )",
+						"rotation": 1.658063,
+						"range": 0.9,
+						"intensity": 2.4,
+						"color": "ffffad58",
+						"texture": "res://packs/DnDgCORE/textures/lights/door_radiant_round_01.webp",
+						"shadows": true,
+						"node_id": "232"
+					},
+					{
+						"position": "Vector2( 3426.25, 6807.04 )",
+						"rotation": -1.570796,
+						"range": 1.9,
+						"intensity": 3,
+						"color": "ffffad58",
+						"texture": "res://packs/DnDgCORE/textures/lights/door_radiant_square_01.webp",
+						"shadows": true,
+						"node_id": "233"
+					},
+					{
+						"position": "Vector2( 3066.25, 6799.04 )",
+						"rotation": 0,
+						"range": 2.5,
+						"intensity": 3,
+						"color": "ffffad58",
+						"texture": "res://textures/lights/point.png",
+						"shadows": true,
+						"node_id": "234"
+					},
+					{
+						"position": "Vector2( 5258.25, 6979.04 )",
+						"rotation": 0,
+						"range": 1.5,
+						"intensity": 3,
+						"color": "ffffad58",
+						"texture": "res://textures/lights/point.png",
+						"shadows": true,
+						"node_id": "235"
+					},
+					{
+						"position": "Vector2( 5254.25, 6519.04 )",
+						"rotation": 0,
+						"range": 1.5,
+						"intensity": 3,
+						"color": "ffffad58",
+						"texture": "res://textures/lights/point.png",
+						"shadows": true,
+						"node_id": "236"
 					}
 				],
 				"roofs": {
@@ -16360,177 +17254,6 @@
 					},
 					"index": 0
 				},
-				"node-id-430": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 0
-				},
-				"node-id-431": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 1
-				},
-				"node-id-432": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 2
-				},
-				"node-id-433": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 3
-				},
-				"node-id-434": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 4
-				},
-				"node-id-435": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 5
-				},
-				"node-id-436": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 6
-				},
-				"node-id-437": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 7
-				},
-				"node-id-438": {
-					"shader_type": "gradient",
-					"colour": "ffffffff",
-					"start_point": 0,
-					"has_edge_blur": false,
-					"path_flip_vertical": false,
-					"gradient": {
-						"colours": [
-							"ff2e614e",
-							"ff000000"
-						],
-						"offsets": [
-							0.113,
-							0.423
-						]
-					},
-					"type": "objects",
-					"index": 8
-				},
 				"node-id-443": {
 					"shader_type": "gradient",
 					"colour": "ffffffff",
@@ -17646,6 +18369,385 @@
 							1
 						]
 					}
+				},
+				"node-id-527": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-528": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-529": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-530": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-531": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-537": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-540": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff492d04"
+						],
+						"offsets": [
+							0.258,
+							1
+						]
+					}
+				},
+				"node-id-543": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-544": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-545": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-546": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-550": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-551": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-558": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-559": {
+					"shader_type": "gradient",
+					"colour": "ffffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff000000",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.143,
+							1
+						]
+					}
+				},
+				"node-id-584": {
+					"shader_type": "none",
+					"colour": "22ffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.187,
+							1
+						]
+					}
+				},
+				"node-id-585": {
+					"shader_type": "none",
+					"colour": "22ffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.187,
+							1
+						]
+					}
+				},
+				"node-id-586": {
+					"shader_type": "none",
+					"colour": "22ffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.187,
+							1
+						]
+					}
+				},
+				"node-id-587": {
+					"shader_type": "none",
+					"colour": "22ffffff",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "objects",
+					"gradient": {
+						"colours": [
+							"ff040006",
+							"ff6f6f6f"
+						],
+						"offsets": [
+							0.187,
+							1
+						]
+					}
+				},
+				"node-id-588": {
+					"shader_type": "none",
+					"colour": "ff3b0d6a",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "pattern_shapes"
+				},
+				"node-id-589": {
+					"shader_type": "none",
+					"colour": "ff3b0d6a",
+					"start_point": 0,
+					"has_edge_blur": false,
+					"path_flip_vertical": false,
+					"index": 0,
+					"type": "pattern_shapes"
 				}
 			}
 		},
@@ -18594,6 +19696,149 @@
 				"shadow_steps": 16,
 				"shadow_strength": 0.67,
 				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"509": {
+				"node_id": 509,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"510": {
+				"node_id": 510,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"511": {
+				"node_id": 511,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"512": {
+				"node_id": 512,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"513": {
+				"node_id": 513,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"514": {
+				"node_id": 514,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"515": {
+				"node_id": 515,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"518": {
+				"node_id": 518,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"519": {
+				"node_id": 519,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"520": {
+				"node_id": 520,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"521": {
+				"node_id": 521,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"522": {
+				"node_id": 522,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
+				"mirror_shadow": 1
+			},
+			"523": {
+				"node_id": 523,
+				"force_z": false,
+				"sun_angle": 4.989057,
+				"sun_intensity": 0.046521,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 1,
+				"blur_radius": 28,
 				"mirror_shadow": 1
 			}
 		},
